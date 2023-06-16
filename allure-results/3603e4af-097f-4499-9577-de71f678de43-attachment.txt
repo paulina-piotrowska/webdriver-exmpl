@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[text()='Add New Doctor']\"}\n  (Session info: chrome=114.0.5735.134)",
-  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x0057A813+48355]\n\t(No symbol) [0x0050C4B1]\n\t(No symbol) [0x00415358]\n\t(No symbol) [0x004409A5]\n\t(No symbol) [0x00440B3B]\n\t(No symbol) [0x0046E232]\n\t(No symbol) [0x0045A784]\n\t(No symbol) [0x0046C922]\n\t(No symbol) [0x0045A536]\n\t(No symbol) [0x004382DC]\n\t(No symbol) [0x004393DD]\n\tGetHandleVerifier [0x007DAABD+2539405]\n\tGetHandleVerifier [0x0081A78F+2800735]\n\tGetHandleVerifier [0x0081456C+2775612]\n\tGetHandleVerifier [0x006051E0+616112]\n\t(No symbol) [0x00515F8C]\n\t(No symbol) [0x00512328]\n\t(No symbol) [0x0051240B]\n\t(No symbol) [0x00504FF7]\n\t(No symbol) [0x752300C9]\n\tRtlGetAppContainerNamedObjectPath [0x773D7B4E+286]\n\tRtlGetAppContainerNamedObjectPath [0x773D7B1E+238]\n"
-}

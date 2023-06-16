@@ -1,4 +1,0 @@
-{
-  "using": "css selector",
-  "value": "span[class='e-btn-icon e-icon-dlg-close e-icons']"
-}
