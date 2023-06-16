@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "[data-date='1596351600000']"
+}

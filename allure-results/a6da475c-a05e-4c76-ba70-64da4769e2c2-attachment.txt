@@ -1,0 +1,3 @@
+{
+  "url": "https://ej2.syncfusion.com/showcase/angular/appointmentplanner/#/dashboard"
+}
