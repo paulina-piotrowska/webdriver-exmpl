@@ -1,0 +1,9 @@
+.idea
+.vscode
+
+**/coverage
+**/mochawesome-report
+**/artifacts
+**/report
+**/node_modules
+**/lib
