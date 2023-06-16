@@ -1,5 +1,7 @@
 .idea
 .vscode
+allure-results
+screenshots
 
 **/coverage
 **/mochawesome-report
@@ -7,5 +9,3 @@
 **/report
 **/node_modules
 **/lib
-**/allure-results
-**/screenshots
